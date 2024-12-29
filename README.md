@@ -46,7 +46,7 @@ Connect the components as follows:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/signal-seeker.git
+    git clone https://github.com/HackerNowful/signal-seeker.git
     cd signal-seeker
     ```
 
